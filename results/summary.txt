@@ -1,0 +1,4 @@
+Synthetic sessions: 1000
+Recommendation order rate: 14.0%
+Mobile single-page exit rate: 46.1%
+Boundary: synthetic demonstration only; not real Shopee data.

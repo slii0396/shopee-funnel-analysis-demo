@@ -1,0 +1,5 @@
+﻿channel,visits,carts,orders,order_rate_pct
+recommendation,200,84,28,14.0
+search,300,90,30,10.0
+ads,250,62,20,8.0
+direct,250,62,15,6.0
